@@ -6,6 +6,11 @@
         },
     "arquivosEntrada":
         {
-            "PDF": ".\\Arquivos de entrada\\Cidades.pdf"
+            "PDF": ".\\Arquivos de entrada\\Cidades.pdf",
+            "excel": ".\\Arquivos de entrada\\dados_ibge_cidades.xlsx"
+        },
+    "arquivosSaida":
+        {
+            "caminhoLogs": ".\\Logs\\"
         }
 }
