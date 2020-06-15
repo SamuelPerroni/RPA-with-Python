@@ -1,4 +1,4 @@
-from pynput.mounse import Button, Controller
+from pynput.mouse import Button, Controller
 
 mouse = Controller()
 print(mouse.position)

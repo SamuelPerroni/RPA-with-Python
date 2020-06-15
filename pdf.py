@@ -17,3 +17,4 @@ class PDFAuto:
             with open(r'Arquivos de entrada\cidades.txt', 'r') as arquivoTxt:
                 arquivoTxt.write(dados)
             arquivoTxt.close()
+        
