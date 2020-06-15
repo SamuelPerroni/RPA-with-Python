@@ -1,8 +1,7 @@
 
 {
-    "sites":[
+    "sites":
         {
             "IBGE": "https://cidades.ibge.gov.br/"
         }
-    ]
 }
