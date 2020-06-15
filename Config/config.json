@@ -2,8 +2,7 @@
 {
     "sites":[
         {
-            "nome": "IBGE",
-            "URL": "https://cidades.ibge.gov.br/"
+            "IBGE": "https://cidades.ibge.gov.br/"
         }
     ]
 }
