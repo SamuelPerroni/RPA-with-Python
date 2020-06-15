@@ -3,5 +3,9 @@
     "sites":
         {
             "IBGE": "https://cidades.ibge.gov.br/"
+        },
+    "arquivosEntrada":
+        {
+            "PDF": ".\\Arquivos de entrada\\Cidades.pdf"
         }
 }
